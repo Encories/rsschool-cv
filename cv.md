@@ -36,3 +36,15 @@ Passing the ServiceNow System Administrator Certification Exam demonstrates mast
  * **Priorbank JSC (August 2012 to October 2013)**
    * **Service specialist.**  
      ***Responsibilities:*** Maintain and customization System Technologies banking CRM-system.
+
+ ### Education:
+ * **Belarusian National Technical University (2008-2013)**  
+   ***Marketing, Management and Entrepreneurship Faculty.***  
+   *International Economical Relationships*
+ * **Academy of Postgraduate Education (2011-2013)**  
+   *Interpreter. Professional communication (English).*
+   
+ ### Languages:
+ * **English:** ***Intermediate***
+ * **Polish:** ***Pre-intermediate***
+ * **German:** ***A 2.1***
