@@ -1,0 +1,37 @@
+body {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-image: url(img/cool-background.png);
+    
+    
+}
+
+article{
+    text-align: justify;
+}
+
+footer{
+    width: 1024px; 
+    padding: 10px; 
+    margin: auto; 
+    color: gray;
+}
+
+.center {
+    width: 1024px; 
+    padding: 10px; 
+    margin: auto; 
+    
+}
+
+.leftimg {
+    float:left; 
+    margin: 7px 7px 7px 0; 
+}
+
+.contacts{
+    margin-left: 200px;
+    vertical-align: middle;
+    
+}
